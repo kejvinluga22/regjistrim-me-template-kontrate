@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kontratat",
+      "runtimeExecutable": "Kontratat_Studenteve/php/php.exe",
+      "runtimeArgs": ["-c", "Kontratat_Studenteve/php/php.ini", "-d", "extension_dir=Kontratat_Studenteve/php/ext", "-S", "127.0.0.1:8767", "-t", "Kontratat_Studenteve/app", "Kontratat_Studenteve/app/router.php"],
+      "port": 8767
+    }
+  ]
+}

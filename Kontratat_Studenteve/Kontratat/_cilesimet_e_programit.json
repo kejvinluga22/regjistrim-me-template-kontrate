@@ -1,0 +1,241 @@
+{
+    "shenim": "Kopje automatike e programeve dhe cilësimeve (Kontratat e Studentëve). Përdoret kur programi hapet në një kompjuter të ri.",
+    "programs": [
+        {
+            "level": "bachelor",
+            "name_sq": "Inxhinieri Softuerike",
+            "name_en": "Software Engineering",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": 3000,
+            "fee_nderkombetar": 3500,
+            "sort": 1,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Inxhinieri Kompjuterike dhe Teknologji Informacioni",
+            "name_en": "Computer Engineering and Information Technology",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": 3000,
+            "fee_nderkombetar": 3500,
+            "sort": 2,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Inteligjencë Artificiale dhe Shkencë e të Dhënave",
+            "name_en": "Artificial Intelligence and Data Science",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": 3000,
+            "fee_nderkombetar": 3500,
+            "sort": 3,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Inxhinieri Elektronike",
+            "name_en": "Electronic Engineering",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": 3000,
+            "fee_nderkombetar": 3500,
+            "sort": 4,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Inxhinieri Robotike dhe Mekatronike",
+            "name_en": "Robotics and Mechatronics Engineering",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 5,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Inxhinieri Telekomunikacioni",
+            "name_en": "Telecommunication Engineering",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 6,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Administrim Biznesi dhe Teknologji Informacioni",
+            "name_en": "Business Administration and Information Technology",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 7,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "\"Administrim Biznesi\" me profile: \"Marketing Digjital\" dhe \"Analizë e Biznesit\"",
+            "name_en": "\"Business Administration\" with profiles: \"Digital Marketing\" and \"Business Analytics\"",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": 2500,
+            "fee_nderkombetar": 3000,
+            "sort": 8,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Administrim Biznesi",
+            "name_en": "Business Administration",
+            "profile_sq": "Analitikë Biznesi",
+            "profile_en": "Business Analytics",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 9,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Financë dhe Kontabilitet",
+            "name_en": "Finance and Accounting",
+            "profile_sq": "FinTech dhe Investime",
+            "profile_en": "FinTech and Investment",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 10,
+            "active": 1
+        },
+        {
+            "level": "bachelor",
+            "name_sq": "Financë dhe Kontabilitet",
+            "name_en": "Finance and Accounting",
+            "profile_sq": "Financë Ndërkombëtare dhe Ekonomi",
+            "profile_en": "International Finance and Economics",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 11,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Inxhinieri Software",
+            "name_en": "Software Engineering",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 12,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Inxhinieri Kompjuterike dhe Teknologji Informacioni",
+            "name_en": "Computer Engineering and Information Technology",
+            "profile_sq": "Inxhinieri Kompjuterike dhe Big Data",
+            "profile_en": "Computer Engineering and Big Data",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 13,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Inxhinieri Kompjuterike dhe Teknologji Informacioni",
+            "name_en": "Computer Engineering and Information Technology",
+            "profile_sq": "Rrjete Kompjuterike dhe Siguri Kibernetike",
+            "profile_en": "Computer Network and Cybersecurity",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 14,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Inxhinieri Kompjuterike dhe Teknologji Informacioni",
+            "name_en": "Computer Engineering and Information Technology",
+            "profile_sq": "Dizajn Multimedial",
+            "profile_en": "Multimedia Design",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 15,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Inteligjencë Artificiale",
+            "name_en": "Artificial Intelligence",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 16,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Administrim Biznesi",
+            "name_en": "Business Administration",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 17,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Teknologji Informacioni në Biznes",
+            "name_en": "Business Information Technology",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 18,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Marketing Dixhital",
+            "name_en": "Digital Marketing",
+            "profile_sq": "",
+            "profile_en": "",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 19,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Financë dhe Kontabilitet",
+            "name_en": "Finance and Accounting",
+            "profile_sq": "Kontabilitet dhe Auditim",
+            "profile_en": "Accounting and Auditing",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 20,
+            "active": 1
+        },
+        {
+            "level": "master",
+            "name_sq": "Financë dhe Kontabilitet",
+            "name_en": "Finance and Accounting",
+            "profile_sq": "Financë dhe Bankë",
+            "profile_en": "Finance and Banking",
+            "fee_vendas": null,
+            "fee_nderkombetar": 3500,
+            "sort": 21,
+            "active": 1
+        }
+    ],
+    "settings": {
+        "academic_year": "2026-2027",
+        "copies": "2",
+        "docs": "{\"Fletë pagese.docx\":{\"enabled\":true,\"print\":true,\"scope\":\"nderkombetar\",\"copies\":1},\"Letër pranimi.docx\":{\"enabled\":false,\"print\":true,\"scope\":\"vendas\",\"copies\":1},\"Vërtetim regjistrimi.docx\":{\"enabled\":false,\"print\":true,\"scope\":\"vendas\",\"copies\":1}}"
+    }
+}

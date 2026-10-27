@@ -1,0 +1,103 @@
+﻿KONTRATAT E STUDENTËVE – CIT
+============================
+
+Programi plotëson automatikisht kontratat Word për 4 rastet:
+  - Vendas  – Bachelor          (Kontrata Bachelor, shqip)
+  - Vendas  – Master            (Kontrata e Masterit, shqip)
+  - Ndërkombëtar – Bachelor     (shqip + anglisht)
+  - Ndërkombëtar – Master       (shqip + anglisht)
+
+NUK KA NEVOJË PËR XAMPP, INTERNET APO INSTALIM.
+Gjithçka është brenda kësaj dosjeje – kopjojeni në USB dhe hapeni në çdo kompjuter me Windows 10/11.
+
+SI HAPET
+1. Klikoni dy herë "START.bat".
+   - Hapet një dritare e zezë (MOS E MBYLLNI gjatë punës) dhe shfletuesi me programin.
+   - Nëse Windows pyet "Windows protected your PC": klikoni "More info" -> "Run anyway".
+2. Kur të mbaroni: mbyllni dritaren e zezë.
+
+SI REGJISTROHET NJË STUDENT (shpejt)
+1. Zgjidhni:  Vendas / Ndërkombëtar,  Bachelor / Master  dhe  Raundi 1 / 2 / 3
+   (programi i mban mend për studentin tjetër). Raundi del vetëm në listë dhe në Excel, jo në kontratë.
+2. Plotësoni të dhënat. Tasti ENTER kalon te fusha tjetër.
+   - Email-i krijohet vetë nga emri (p.sh. ana.hoxha@cit.edu.al).
+   - Gjinia ndryshon tekstin: "Studenti / Studentja", "i biri / e bija", "banues / banuese", "son / daughter".
+   - Tarifa del vetë kur zgjidhni programin; zbritja (%) llogarit vetë tarifën pas zbritjes.
+   - Shuma me fjalë shkruhet vetë (p.sh. 3500 -> "tremijë e pesëqind" / "Three thousand five hundred").
+   - Studenti nën 18 vjeç (Bachelor vendas): hapet vetë pjesa e prindit / përfaqësuesit ligjor.
+     Pa e zgjedhur, kontrata nuk ruhet.
+3. Shtypni "💾 Ruaj kontratën"  (ose Ctrl + Enter): kontrata ruhet dhe programi pyet "Të printohet?"
+   - Zgjidhni printerin dhe shtypni "🖨 Po, printo" (Enter): printohen kontrata (2 kopje) + dokumentet shtesë.
+   - "Jo, vazhdo" (Esc): nuk printohet (mund ta printoni më vonë me 🖨 te 📋 Studentët).
+   Formulari bosh hapet vetë për studentin tjetër.
+   (Kontrata Word mund ta hapni kurdo me "Hap në Word" ose nga 📋 Studentët.)
+
+Fushat që lini bosh mbeten "____________" në kontratë, që të plotësohen me dorë.
+
+💶 VËRTETIM PAGESE  (faqe më vete, për studentët ndërkombëtarë)
+1. Shkruani Emrin dhe Mbiemrin (nëse studenti është në listë, klikoni emrin e tij poshtë: Z./Znj. plotësohet vetë).
+2. Zgjidhni:  "✔ Të plota"  ose  "◐ Të pjesshme".  Poshtë shihni si del teksti në vërtetim.
+3. "💾 Ruaj" (Enter): vërtetimi ruhet dhe programi pyet "Të printohet?"
+   "🖨 Po, printo" (Enter) = printohet  ·  "Jo, vazhdo" (Esc) = vetëm ruhet.   (Ose "📄 Hap në Word".)
+   Vërtetimi ruhet te  Kontratat\2026-2027\Vërtetime pagese\  dhe del djathtas te "Vërtetimet e fundit":
+   🖨 printo përsëri,  📄 hap,  ✎ ndrysho (p.sh. studenti pagoi pjesën e mbetur -> "Të plota"),  🗑 fshi.
+   Data në vërtetim është data e printimit.
+
+📋 STUDENTËT
+- LISTA LEXOHET VETË NGA DOSJA E KONTRATAVE:
+    * Vendosni një kontratë (të krijuar nga programi) në dosjen "Kontratat"  -> studenti shtohet vetë në listë.
+    * Fshini / hiqni një kontratë nga dosja                                 -> studenti hiqet vetë nga lista.
+      (Nëse e ktheni skedarin, studenti rikthehet me të gjitha të dhënat.)
+  Lista rilexohet kur hapet programi, kur ktheheni te dritarja e programit dhe çdo 30 sekonda
+  (ose shtypni "🔄 Rifresko"). Sipër del një mesazh blu me emrat e studentëve që u shtuan / u hoqën.
+  Të dhënat e studentit ruhen edhe brenda kontratës Word (të padukshme në faqe dhe në printim),
+  prandaj programi i lexon saktë edhe në një kompjuter tjetër.
+- Kërkoni me emër, email, nr. dokumenti, program...
+- 📄 Word = hap kontratën,  🖨 = printo direkt (në printerin kryesor të Windows-it),  ⬇ = shkarko,  ✎ = ndrysho (kontrata rikrijohet),  🗑 = fshi.
+- 📊 Excel = lista e studentëve (sipas filtrave të zgjedhur).
+
+⚙ CILËSIMET  (çdo ndryshim ruhet vetë)
+- Viti akademik (p.sh. 2026-2027) dhe ku ruhen kontratat (si parazgjedhje: dosja "Kontratat" këtu, në USB).
+- 🖨 Printimi: "Hap dritaren (Ctrl+P)" ose "Printo direkt"; sa kopje të kontratës (parazgjedhur 2 – studenti + CIT).
+  Për printimin nevojitet Microsoft Word në kompjuter (Word përgatit PDF-në që shfaqet në dritaren e printimit).
+- Dokumente shtesë: Letër pranimi (SQ + EN), Vërtetim regjistrimi, Fletë pagese.
+  Me çelësin i aktivizoni / çaktivizoni. Për secilin zgjidhni: për kë (të gjithë / vendas / ndërkombëtar),
+  "Printo" (printohet bashkë me kontratën) dhe sa kopje. Krijohen në të njëjtën dosje me kontratën.
+  KUJDES: Kontrolloni tekstin e modeleve një herë (butoni ✎) – p.sh. Banka / IBAN te Fleta e pagesës.
+  Modelet janë te  app\templates\dokumente  – mund të shtoni edhe dokumentet tuaja Word aty.
+- Programet: shkruani tarifën direkt te kutia "Vendas" / "Ndërk." e çdo programi.
+  ✎ = ndrysho emrin shqip/anglisht ose profilin;  ➕ Shto program;  çelësi = shfaq / fshih nga lista.
+  KUJDES: Vendosni tarifat vendase të çdo programi një herë (ndërkombëtarët janë 3500 €).
+
+KUR NDËRRONI KOMPJUTER
+- Më e mira: kopjoni GJITHË dosjen "Kontratat_Studenteve" (në USB) dhe hapni START.bat në kompjuterin tjetër.
+- Edhe nëse merrni vetëm dosjen "Kontratat" dhe e vendosni te programi në kompjuterin tjetër:
+  programi i lexon vetë të gjithë studentët nga kontratat. Programet, tarifat dhe cilësimet ruhen gjithashtu
+  te skedari  Kontratat\_cilesimet_e_programit.json  (mos e fshini) dhe merren vetë në kompjuterin e ri.
+- Kontratat e vjetra (të krijuara para këtij përditësimi) lexohen nga teksti i tyre; te studenti del shënimi
+  "Lexuar automatikisht ... kontrolloni të dhënat" – hapni ✎ dhe kontrolloni (raundi dhe shënimet nuk janë në kontratë).
+
+KU RUHEN SKEDARËT
+- Kontratat Word:  Kontratat\2026-2027\Vendas\Bachelor\Emri Mbiemri - Kontrata.docx
+- Databaza (të gjithë studentët):  app\data\kontratat.sqlite
+- BACKUP: kopjoni gjithë dosjen "Kontratat_Studenteve" (ose të paktën "app\data" dhe "Kontratat").
+
+NDRYSHIMI I KONTRATAVE (p.sh. viti tjetër akademik)
+Modelet Word janë në  app\templates :
+  vendas_bachelor.docx, vendas_master.docx, nderkombetar_bachelor.docx, nderkombetar_master.docx
+Hapini në Word dhe ndryshoni tekstin si zakonisht. Fjalët me kllapa {{...}} zëvendësohen nga programi,
+prandaj mos i fshini (mund t'i lëvizni ose t'i kopjoni gjetkë):
+  {{EMRI_PLOTE}} {{STUDENTI_JA}} {{BIRI_BIJA}} {{BANUES}} {{SON_DAUGHTER}} {{ATESIA}} {{EMRI_NENES}}
+  {{VENDLINDJA}} {{DATELINDJA}} {{ADRESA}} {{DOKUMENTI}} {{TELEFONI}} {{TELEFONI2}} {{EMAIL}} {{SHTETESIA}}
+  {{PROGRAMI}} {{PROGRAM_EN}} {{PROFILI_FRAZE}} {{PROFILE_EN_FRAZE}} {{DATA}} {{VITI_AKADEMIK}}
+  {{TARIFA}} {{TARIFA_FJALE}} {{TARIFA_WORDS}} {{ZBRITJA}} {{TARIFA_NETO}} {{TARIFA_NETO_FJALE}}
+  {{PRINDI_EMRI}} {{PRINDI_VENDLINDJA}} {{PRINDI_DATELINDJA}} {{PRINDI_ADRESA}} {{PRINDI_DOKUMENTI}} {{PRINDI_TEL}}
+  Për dokumentet shtesë edhe: {{NIVELI_SQ}} {{LEVEL_EN}} {{KOHEZGJATJA}} {{DURATION_EN}} {{PROGRAMI_PLOTE}} {{PROGRAM_EN_PLOTE}}
+  {{I_NDERUAR}} {{DEAR}} {{I_LINDUR}} {{I_REGJISTRUAR}} {{TARIFA_REGJISTRIMI}} {{KESTI_1}} {{KESTI_2}} {{RAUNDI}}
+  Vërtetim pagese: {{Z_ZNJ}} (Z. / Znj.) {{MR_MS}} (Mr. / Ms.) {{PAGESA_SQ}} (të plota / të pjesshme)
+  {{PAGESA_EN}} (full / partial) {{DATA_SOT}} (data e printimit) {{VITI_AKADEMIK_EN}} (2026–2027)
+
+PROBLEME
+- "Kontrata është e hapur në Word": mbyllni dokumentin në Word dhe provoni përsëri.
+- Faqja nuk hapet: mbyllni dritaren e zezë dhe klikoni përsëri START.bat.
+- Mos e hiqni USB-në ndërsa programi është i hapur.
